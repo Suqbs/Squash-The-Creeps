@@ -1,4 +1,4 @@
-# Dodge The Creep 2D Game
+# Dodge The Creep 3D Game
 This is a game based on a tutorial in the Godot Docs. Here is the link for more information: 
 
 https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html
