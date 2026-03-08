@@ -1,0 +1,25 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1772967085
+icon.webp::CompressedTexture2D::27118964165343846::1772273126::1772273236::1::::<><><>0<>0<>d1498e266395186d04e973f787f3596d<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+::res://art/::1772714347
+body.tres::StandardMaterial3D::-1::1772273126::0::1::::<><><>0<>0<><>::
+eye.tres::StandardMaterial3D::-1::1772273126::0::1::::<><><>0<>0<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::6912470962729766485::1772273126::1772273236::1::::<><><>0<>0<>ca11219f684f6cd2af90d4e6cdaead58<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+mob.glb::PackedScene::2952940687663745631::1772273126::1772714347::1::::<><><>0<>0<>943020a3af25cee7ab36f3d953033e5d<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
+mob_body.tres::StandardMaterial3D::-1::1772273126::0::1::::<><><>0<>0<><>::
+mob_eye.tres::StandardMaterial3D::-1::1772273126::0::1::::<><><>0<>0<><>::
+player.glb::PackedScene::8964461739428881931::1772273126::1772714345::1::::<><><>0<>0<>a78ee2d8f7aa443b1c94ccbc80947510<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
+pupil.tres::StandardMaterial3D::-1::1772273126::0::1::::<><><>0<>0<><>::
+::res://fonts/::1772273236
+LICENSE.txt::TextFile::-1::1772273126::0::1::::<><><>0<>0<><>::
+Montserrat-Medium.ttf::FontFile::6505293508080888906::1772273126::1772273236::1::::<><><>0<>0<>1eb268033ecd125d99a1f1687f4c989d<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
+::res://scenes/::1772715855
+::res://scenes/main/::1772889708
+main.gd::GDScript::7055097274099517249::1772889708::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::904402422642745345::1772889708::0::1::::<><><>0<>0<><>::uid://ctega4qvlvvq8::::res://scenes/player/player.tscn<>uid://c7rsolcohwtl6::::res://scenes/main/main.gd<>uid://cjs7c3rw8ujp5::::res://scenes/mob/mob.tscn
+::res://scenes/mob/::1772891351
+mob.gd::GDScript::6829652685208772624::1772888425::0::1::::<>CharacterBody3D<><>0<>0<><>::
+mob.tscn::PackedScene::5443647773017860720::1772891351::0::1::::<><><>0<>0<><>::uid://bicorb7we351t::::res://art/mob.glb<>uid://c4klm8qhtwnim::::res://scenes/mob/mob.gd
+::res://scenes/player/::1772891371
+player.gd::GDScript::1187355554721678690::1772889633::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::6115052758345373965::1772891371::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://q6ftp28wn2gc::::res://scenes/player/player.gd

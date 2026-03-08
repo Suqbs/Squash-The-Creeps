@@ -1,0 +1,8 @@
+res://scenes/main/main.tscn
+res://scenes/main/score_label.gd
+res://scenes/main/main.gd
+res://scenes/music_player/music_player.tscn
+res://scenes/player/player.gd
+res://scenes/mob/mob.tscn
+res://scenes/player/player.tscn
+res://scenes/mob/mob.gd
