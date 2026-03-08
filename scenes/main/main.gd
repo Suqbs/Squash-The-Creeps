@@ -6,6 +6,7 @@ var game_score = 0
 
 func _ready() -> void:
 	$UserInterface/Retry.hide()
+	$UserInterface/ScoreLabel.show()
 
 func _on_mob_timer_timeout():
 	# Create a new instance of the Mob scene.
@@ -30,6 +31,7 @@ func _on_mob_timer_timeout():
 func _on_player_hit() -> void:
 	$MobTimer.stop()
 	$UserInterface/Retry.show()
+	$UserInterface/ScoreLabel.hide()
 	$UserInterface/Retry/EndScoreLabel.text = "Your Final Score: %s" % game_score
 	
 func _unhandled_input(event):
